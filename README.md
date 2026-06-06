@@ -52,18 +52,6 @@ Outside of tech, I shoot photographs and play basketball — both have taught me
 **Core Competencies**
 `Data Structures & Algorithms` · `OOP` · `Quantum Mechanics fundamentals`
 
---- 
-
-## 📌 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Email Spam Detector](https://github.com/GeneralMK7/ML-Projects) | Multinomial Naive Bayes classifier — **98.6% test accuracy** on 5,572 emails | Scikit-learn, TF-IDF, Pandas |
-| [Quantum Coin Toss](https://github.com/GeneralMK7/ML-Projects) | Comparative study of quantum randomness across Qiskit, Cirq, PennyLane, QuTiP using Hadamard gates | Python, Qiskit, Cirq |
-| [Amazon Price Tracker](https://github.com/GeneralMK7/Python-Projects) | Auto-monitors product prices and emails alerts when thresholds are hit | BeautifulSoup, smtplib |
-| [Billboard → Spotify](https://github.com/GeneralMK7/Python-Projects) | Scrapes Billboard Hot 100 and auto-builds a Spotify playlist | Spotipy API, OAuth |
-| [LLM Engineering](https://github.com/GeneralMK7/LLM_Engineering) | Projects from Edward Donner's LLM course | Jupyter, Transformers |
-
 ---
 
 ## 📫 Reach me
