@@ -32,42 +32,27 @@ Outside of tech, I shoot photographs and play basketball — both have taught me
 ## 🛠 Tools & Technologies
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+`Python` · `Java` · `C`
 
 **ML / Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+`Scikit-learn` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib`
 
 **NLP**
-
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NER](https://img.shields.io/badge/Named_Entity_Recognition-grey?style=flat-square)
+`Transformers` · `Named Entity Recognition` · `Deep Learning (basics)`
 
 **Quantum Computing**
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![Cirq](https://img.shields.io/badge/Google_Cirq-4285F4?style=flat-square&logo=google&logoColor=white)
+`Qiskit` · `Google Cirq` · `PennyLane` · `QuTiP`
 
 **Automation & Web**
-
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+`BeautifulSoup` · `Selenium` · `Requests` · `n8n (AI Agents)` · `smtplib` · `Spotipy API`
 
 **Tools & Platforms**
+`Git / GitHub` · `Jupyter Notebook` · `Google Colab` · `VS Code` · `PyCharm` · `IntelliJ IDEA`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+**Core Competencies**
+`Data Structures & Algorithms` · `OOP` · `Quantum Mechanics fundamentals`
 
----
+--- 
 
 ## 📌 Featured Projects
 
